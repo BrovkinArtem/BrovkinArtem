@@ -63,7 +63,7 @@
 
 ## 🚀 Проекты
 
-### 📈 <img src="https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg" alt="Optitex Logo" width="24" /> Optitex — *приватный*
+### <img src="https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg" alt="Optitex Logo" width="24" /> Optitex — *приватный*
 > **React + TypeScript + Firebase + Tinkoff API**
 
 
@@ -77,10 +77,9 @@
 
 ---
 
-### 🧾 Инфокрафт — *приватный*  
-> **Python + FastAPI + EasyOCR + YOLOv5 + Docker** <p align="right">
-  <img src="https://infocraft.ru/images/infocraft/header_logo.svg" alt="Infocraft Logo" width="120" />
-</p>
+###  <img src="https://infocraft.ru/images/infocraft/header_logo.svg" alt="Infocraft Logo" width="24" /> Инфокрафт — *приватный*  
+> **Python + FastAPI + EasyOCR + YOLOv5 + Docker**
+
 
 - Распознаёт номера счётчиков на фото с точностью 96–98%  
 - Микросервис + REST API, деплой на Linux  
