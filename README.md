@@ -68,7 +68,7 @@
 ## 🚀 Проекты
 
 
-### <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/ttt-Kittl%20(1).svg" alt="Optitex Logo" width="48" style="vertical-align: middle;" /> Optitex — *приватный*
+### <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/ttt-Kittl%20(1).svg" alt="Optitex Logo" width="48" /> Optitex — *приватный*
 
 > **React + TypeScript + Firebase + Tinkoff API**
 
