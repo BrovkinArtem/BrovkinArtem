@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <b>Laravel · MySQL · PostgreSQL · Vue.js</b>
+  <b>Laravel · MySQL · PostgreSQL · Vue.js · Flutter · Dart</b>
 </p>
 
 > Использовались ранее на коммерческих или pet-проектах.
