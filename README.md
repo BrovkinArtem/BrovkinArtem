@@ -72,8 +72,7 @@
 - Подписки через ЮKassa, графики на Chart.js  
 - Python-алгоритм для анализа портфелей
 
-🖼️ _[вставь сюда скриншот или gif демки]_  
-`<img src="https://your-image-link.com/demo.gif" width="200px" />`
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/tia.jpg" width="200px" />
 
 ---
 
