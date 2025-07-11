@@ -63,7 +63,7 @@
 
 ## 🚀 Проекты
 
-### <img src="https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg" alt="Optitex Logo" width="48" /> Optitex — *приватный*
+### <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEX///8FBwwZEBocFSAqISkWDRtBPDiVkXGqpJxjWUEwMC5wck9qeT+fo2KLlVdOVDUuMiuQzVJTkDtuqkmt2WfL7XZ4q0dqWksbEx1TbUtKWDdQbzkyTjOu41tMZjUXDRlfpVUjLi4bLSpKOzaskWzctXTi1XhZUEZsxFlxa2R2lkaMslGMtlOuz23Y7IhniDtYdDdANkam11eXyVJQjEc1bjolHihrmUN5tUlxjUpqpD2OfE06ikoyeEM6gD7TtoviS+PjAAAAKnRSTlMADBhPcDXT/P7soP76/v37/P7+/v7+/vr0/P79/f7+J/7I/vj9/f78/uMvcVemAAAB7ElEQVQ4y9VS25aaQBCUi2AYgWG4CQwoiMuG4RYYrmL2//9qXUVjkh9I6mXmnK7uU1Xdq9U/A4Zlbg/H8xzHrf8srwVxI37jWQmkJNtmsqLyzG/tMC8KpcxUoiGkV4Zp6UhgXwjcD7GwdxtHc3WEtKpuaIsa4YUg7dS8gxvY9J4+1JA0XzxP+jVAMY0S2DtcW6DuvRFXfd+Xav5gMFtTrn154zTagIO0MJsKBwEkpryY4TL/irrx68GCk1n0qHbHVM1QtozYq+r5vB2v/UMFqqLXWz019X5EU3X3yuBRlrNmGKwDbhwLIUIUY+q3mTbulxEh9jxK6XyBU+5aaCCyiYYp9V3hGZcURJhSHHlZiq26tPwBTRCOtXrXyaykS+RdLhBjD8jA7dyq8hwxr9zqGUZ4xLT1fnaw931jVPJ8JEbTh/wSOCM5cTTPrfOxizyLuMSoS1wGkHtKUNxTrLrnDyWnGGIYlNcqvkK6b5UF8cF+O8Vv26IgtIV2AtUumjV8ofimcq3EtD0C205korhREsfAjuaDhsOQv4edjnQO11J4jJWMdEkCBb6j7+/tIygAxKHlb78TUXDHMSuetocDXjyw0vcE3w3zqjW24ZUpAtGZw5eTfdgRk80Xl5GEBIbs38fNCWEi7Jd4/yN8AifPPjp2egHFAAAAAElFTkSuQmCC" alt="Optitex Logo" width="48" /> Optitex — *приватный*
 > **React + TypeScript + Firebase + Tinkoff API**
 
 
