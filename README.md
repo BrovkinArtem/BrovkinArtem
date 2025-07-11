@@ -84,7 +84,7 @@
 > **Python + FastAPI + EasyOCR + YOLOv5 + Docker**
 
 <p align="center">
-  <img src="https://link-to-infocraft-logo.png" alt="Infocraft Logo" width="120" />
+  <img src="https://infocraft.ru/images/infocraft/header_logo.svg" alt="Infocraft Logo" width="120" />
 </p>
 
 - Распознаёт номера счётчиков на фото с точностью 96–98%  
