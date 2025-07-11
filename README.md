@@ -52,7 +52,7 @@
 ## 📂 Ранее в работе
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,vuejs" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,vuejs,flutter,dart" />
 </p>
 
 <p align="center">
