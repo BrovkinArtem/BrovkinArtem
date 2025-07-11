@@ -85,10 +85,9 @@
 - Микросервис + REST API, деплой на Linux  
 - Докеризация, автозапуск
 
-<div style="display: flex; align-items: center; gap: 12px;">
-  <span>🖼️ Скриншот</span>
-  <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="200px" />
-</div>
+
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="200px" />
+
 ---
 
 ## 💼 Немного о себе
