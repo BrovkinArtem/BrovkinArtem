@@ -72,7 +72,7 @@
 - Подписки через ЮKassa, графики на Chart.js  
 - Python-алгоритм для анализа портфелей
 
-<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/tia.jpg" width="200px" />
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/tia.jpg" width="360px" />
 
 ---
 
@@ -85,7 +85,7 @@
 - Докеризация, автозапуск
 
 
-<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="200px" />
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="360px" />
 
 ---
 
