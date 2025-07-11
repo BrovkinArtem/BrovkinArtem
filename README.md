@@ -68,7 +68,7 @@
 ## 🚀 Проекты
 
 
-### <span style="display: flex; align-items: center; gap: 8px;">
+### <span style="display: flex; display-direction: row; align-items: center; gap: 8px;">
   <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/ttt-Kittl%20(1).svg" alt="Optitex Logo" width="64" />
   Optitex — *приватный*
 </span>
