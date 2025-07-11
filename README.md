@@ -81,9 +81,7 @@
 ---
 
 ### 🧾 Инфокрафт — *приватный*  
-> **Python + FastAPI + EasyOCR + YOLOv5 + Docker**
-
-<p align="center">
+> **Python + FastAPI + EasyOCR + YOLOv5 + Docker** <p align="right">
   <img src="https://infocraft.ru/images/infocraft/header_logo.svg" alt="Infocraft Logo" width="120" />
 </p>
 
