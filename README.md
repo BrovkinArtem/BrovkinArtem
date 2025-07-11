@@ -43,6 +43,10 @@
   <img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma" />
 </p>
 
+<p align="center">
+  <b>Github · Gitlab · Postman · Figma</b>
+</p>
+
 > Основные инструменты для контроля версий, тестирования API и реализации точного дизайна проектов
 
 ---
