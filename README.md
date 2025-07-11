@@ -39,4 +39,4 @@ GitHub · GitLab · Postman · Figma · Jira/SCRUM
 ---
 
 ## 📫 Связаться
-[![Telegram](https://img.shields.io/badge/TG-@artem_dev-0099ff?style=for-the-badge&logo=telegram)](https://t.me/ArtemiyBrovkin)
+[![Telegram](https://img.shields.io/badge/TG-@ArtemiyBrovkin-0099ff?style=for-the-badge&logo=telegram)](https://t.me/ArtemiyBrovkin)
