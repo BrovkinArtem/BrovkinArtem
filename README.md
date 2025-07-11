@@ -1,6 +1,6 @@
 <!-- Заставка -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Привет!+Я+Артём+Бровкин;Frontend+%2F+Fullstack+разработчик;React+%7C+TypeScript+%7C+Firebase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Привет!+Я+Артём+Бровкин;Frontend+%2F+Fullstack+разработчик;React+%7C+TypeScript+%7C+Firebase" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Артём Бровкин</h1>
