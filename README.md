@@ -86,7 +86,7 @@
 - Докеризация, автозапуск
 
 🖼️ _[вставь сюда скриншот]_  
-`<img src="https://your-image-link.com/ocr-demo.png" width="100%" />`
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="100%" />
 
 ---
 
