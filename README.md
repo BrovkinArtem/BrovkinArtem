@@ -73,7 +73,7 @@
 - Python-алгоритм для анализа портфелей
 
 🖼️ _[вставь сюда скриншот или gif демки]_  
-`<img src="https://your-image-link.com/demo.gif" width="100%" />`
+`<img src="https://your-image-link.com/demo.gif" width="200px" />`
 
 ---
 
@@ -85,8 +85,8 @@
 - Микросервис + REST API, деплой на Linux  
 - Докеризация, автозапуск
 
-🖼️ _[вставь сюда скриншот]_  
-<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="100%" />
+🖼️ Скриншот
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="200px" />
 
 ---
 
