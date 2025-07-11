@@ -56,10 +56,10 @@
 
 ---
 
-## 🛠 Инструменты
+## 🛠 Вспомогательные инструменты
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,jira,figma" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma" />
 </p>
 
 ---
