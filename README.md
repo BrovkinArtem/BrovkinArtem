@@ -12,11 +12,11 @@
 ## ⚙️ Основной стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,firebase,nodejs,scss" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,scss" />
 </p>
 
 <p align="center">
-  <b>React · TypeScript · JavaScript · Next.js · Vite · Redux · Firebase · Node.js · SCSS</b>
+  <b>React · TypeScript · JavaScript · Vite · Redux · Firebase · Node.js · SCSS</b>
 </p>
 
 > Основной фронтенд/бекенд стек, с которым сейчас работаю.
