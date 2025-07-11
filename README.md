@@ -9,7 +9,7 @@
   🎂 07.07.2002 &nbsp;•&nbsp; 🇷🇺 Петрозаводск &nbsp;•&nbsp; 🎓 Бакалавр ПетрГУ  
 </p>
 
-<h2 align="center">⚙️ Основной стек</h2>
+## ⚙️ Основной стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,firebase,nodejs,scss" />
@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">🔧 Вспомогательные технологии</h2>
+## 🔧 Вспомогательные технологии
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,docker" />
