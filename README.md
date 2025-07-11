@@ -23,7 +23,7 @@
 
 ---
 
-## 🔧 Вспомогательные технологии
+<h2 align="center">🔧 Вспомогательные технологии</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,docker" />
