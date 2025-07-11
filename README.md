@@ -63,8 +63,8 @@
 
 ## 🚀 Проекты
 
-### 📈 Optitex — *приватный*  
-> **React + TypeScript + Firebase + Tinkoff API** <img src="https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg" alt="Optitex Logo" width="120" />
+### 📈 Optitex — *приватный*  <img src="https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg" alt="Optitex Logo" width="48" />
+> **React + TypeScript + Firebase + Tinkoff API**
 
 
 - Автодивестирование по стратегии усреднения  
