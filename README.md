@@ -67,7 +67,7 @@
 > **React + TypeScript + Firebase + Tinkoff API**
 
 <p align="center">
-  <img src="https://link-to-optitex-logo.png" alt="Optitex Logo" width="120" />
+  <img src="[https://link-to-optitex-logo.png](https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg)" alt="Optitex Logo" width="120" />
 </p>
 
 - Автодивестирование по стратегии усреднения  
