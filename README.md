@@ -82,7 +82,7 @@
 
 ---
 
-###  <img src="https://infocraft.ru/images/infocraft/logo.svg" alt="Infocraft Logo" width="128" /> Инфокрафт — *приватный*  
+###  <img src="https://infocraft.ru/images/infocraft/logo.svg" alt="Infocraft Logo" width="114" /> Инфокрафт — *приватный*  
 > **Python + FastAPI + EasyOCR + YOLOv5 + Docker**
 
 
