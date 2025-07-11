@@ -14,7 +14,7 @@
 ## 🧠 Стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,firebase,nodejs,express,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,firebase,nodejs,git,figma" />
 </p>
 
 ---
