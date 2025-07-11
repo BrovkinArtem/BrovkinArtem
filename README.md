@@ -77,7 +77,7 @@
 
 ---
 
-###  <img src="https://infocraft.ru/images/infocraft/header_logo.svg" alt="Infocraft Logo" width="164" /> — *приватный*  
+###  <img src="https://infocraft.ru/images/infocraft/logo.svg" alt="Infocraft Logo" width="164" /> — *приватный*  
 > **Python + FastAPI + EasyOCR + YOLOv5 + Docker**
 
 
