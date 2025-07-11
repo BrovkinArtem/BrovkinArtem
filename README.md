@@ -9,20 +9,38 @@
   🎂 07.07.2002 &nbsp;•&nbsp; 🇷🇺 Петрозаводск &nbsp;•&nbsp; 🎓 Бакалавр ПетрГУ  
 </p>
 
----
-
-## 🧠 Стек
+## ⚙️ Основной стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,firebase,nodejs,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,firebase,nodejs,scss" />
 </p>
 
+<p align="center">
+  <b>React · TypeScript · JavaScript · Next.js · Vite · Redux · Firebase · Node.js · SCSS</b>
+</p>
+
+> Основной фронтенд/бекенд стек, с которым сейчас работаю.
+
 ---
 
-## 🧠 Стек
+## 🔧 Вспомогательные технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,redux,firebase,nodejs,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python,php,docker" />
+</p>
+
+<p align="center">
+  <b>Python · PHP · Docker </b>
+</p>
+
+> Технологии, которые мной периодически используются
+
+---
+
+## 🛠 Вспомогательные инструменты
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma" />
 </p>
 
 ---
@@ -30,10 +48,14 @@
 ## 📂 Ранее в работе
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,postgres,vuedotjs,docker,scss" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,vuedotjs" />
 </p>
 
-<sub>+ SQL, MVC, Minista, JSX</sub>
+<p align="center">
+  <b>Laravel · MySQL · PostgreSQL · Vue.js</b>
+</p>
+
+> Использовались ранее на коммерческих и pet-проектах.
 
 ---
 
@@ -72,15 +94,6 @@
 - 💬 Хорошо коммуницирую в команде, открыт к фидбеку  
 - ✅ Делаю — не выдумываю
 
----
-
-## 🛠 Вспомогательные инструменты
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma" />
-</p>
-
----
 
 ## 🎯 Цель
 
