@@ -48,7 +48,7 @@
 ## 📂 Ранее в работе
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,vuedotjs" />
+  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,vuejs" />
 </p>
 
 <p align="center">
