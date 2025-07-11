@@ -63,7 +63,7 @@
 
 ## 🚀 Проекты
 
-### <img src="https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg" alt="Optitex Logo" width="24" background-color="white" /> Optitex — *приватный*
+### <img src="https://static.tildacdn.com/tild6364-3636-4564-b832-323739633834/ttt.jpg" alt="Optitex Logo" width="24" /> Optitex — *приватный*
 > **React + TypeScript + Firebase + Tinkoff API**
 
 
@@ -77,7 +77,7 @@
 
 ---
 
-###  <img src="https://infocraft.ru/images/infocraft/header_logo.svg" alt="Infocraft Logo" width="24" /> Инфокрафт — *приватный*  
+###  <img src="https://infocraft.ru/images/infocraft/header_logo.svg" alt="Infocraft Logo" width="64" /> — *приватный*  
 > **Python + FastAPI + EasyOCR + YOLOv5 + Docker**
 
 
