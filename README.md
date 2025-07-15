@@ -93,6 +93,121 @@
 
 ---
 
+# 💼 Frontend-проекты
+
+Четыре проекта с версткой, интерактивом и фреймворками. Сделано для прокачки скиллов и наполнения портфолио.
+Каждый последующий проект был сложнее и насыщенее предыдущего
+
+---
+
+## 🏋️ Kropp Fitness Club 🟢
+
+**Цель:**  
+Освоить базовую вёрстку, адаптив, сетки и работу с макетом.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,figma" />
+</p>
+
+**Стек:**  
+- HTML5  
+- CSS3  
+- Figma
+
+**Особенности:**  
+- Mobile First  
+- Чистая вёрстка без JS  
+- Без сборщиков и препроцессоров
+
+<img src="https://github.com/BrovkinArtem/Kropp-Fitness-Club/blob/main/screenshots/kropp1.png" width="50%"/>
+
+---
+
+## 🎉 Positivus 🟡
+
+**Цель:**  
+Практика адаптива, SCSS и методологии БЭМ.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,scss,figma" />
+</p>
+
+**Стек:**  
+- HTML5  
+- SCSS  
+- Figma  
+- БЭМ
+
+**Особенности:**  
+- Mobile First  
+- БЭМ-структура классов  
+- SCSS с вложенностью  
+- Без JS
+
+<img src="https://github.com/BrovkinArtem/Positivus/blob/main/screenshots/Positivus1.png" width="50%"/>
+
+---
+
+## 💡 FutureTech 🔴
+
+**Цель:**  
+Подключить JavaScript и создать полноценный сайт с логикой.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,scss,js,figma" />
+</p>
+
+**Стек:**  
+- HTML5  
+- SCSS  
+- JavaScript (Vanilla)  
+- Figma  
+- БЭМ
+
+**Особенности:**  
+- Бургер-меню  
+- Липкая шапка  
+- Видео-плеер  
+- Табы  
+- Input mask  
+- Кастомные select и accordion  
+- Проект из 6 страниц  
+- Чистый JS без фреймворков
+
+<img src="https://github.com/BrovkinArtem/FutureTech/blob/main/screenshots/home/home1.png" width="50%" />
+
+---
+
+## 🎬 StreamVibe 🚀
+
+**Цель:**  
+Начало погружения в изучение React и компонентного подхода, сборка через Vite.
+
+<img src="https://minista.qranoko.jp/assets/images/logo.svg" width="128" height="48" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=reacs,scss,vite,figma" />
+</p>
+
+**Стек:**  
+- React / JSX  
+- SCSS  
+- Vite  
+- Minista  
+- Figma  
+- Библиотеки: `classnames`, `imask`, `swiper`
+
+**Особенности:**  
+- Компонентная структура  
+- Сложный UI: рейтинги, слайдеры, чекбоксы  
+- Бургер-меню и sticky header  
+- Кастомные формы  
+- Mobile First + адаптив  
+- Сборка через Vite
+
+<img src="https://github.com/BrovkinArtem/StreamVibe/blob/main/screenshots/home/stream_home1.png" width="50%" />
+
+---
+
 ## 💼 Немного о себе
 
 - 2 года commercial‑опыта как Frontend‑разработчик  
