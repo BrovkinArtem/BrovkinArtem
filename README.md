@@ -1,6 +1,6 @@
 <!-- Заставка -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Привет!+Я+Артём+Бровкин;Frontend+%2F+Fullstack+разработчик;React+%7C+TypeScript+%7C+REST_API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Привет!+Я+Артём+Бровкин;Frontend+разработчик;React+%7C+TypeScript+%7C+REST_API" alt="Typing SVG" />
 </p>
 
 <p align="center">
