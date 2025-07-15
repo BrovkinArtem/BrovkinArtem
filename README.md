@@ -163,7 +163,7 @@
 Начало погружения в изучение React и компонентного подхода, сборка через Vite.
 
 <img src="https://minista.qranoko.jp/assets/images/logo.svg" width="128" height="48" />
-<img src="https://skillicons.dev/icons?i=reacs,scss,vite,figma" />
+<img src="https://skillicons.dev/icons?i=react,scss,vite,figma" />
 
 **Стек:**  
 - React / JSX  
