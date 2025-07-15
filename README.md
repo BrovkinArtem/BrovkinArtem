@@ -91,8 +91,6 @@
 
 <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="360px" />
 
----
-
 # 💼 Frontend-проекты
 
 Четыре проекта с версткой, интерактивом и фреймворками. Сделано для прокачки скиллов и наполнения портфолио.
@@ -100,14 +98,12 @@
 
 ---
 
-## 🏋️ Kropp Fitness Club 🟢
+## 🏋️‍♂️ [Kropp Fitness Club 🟢](https://github.com/BrovkinArtem/Kropp-Fitness-Club)
 
-**Цель:**  
+**Цель:** 
 Освоить базовую вёрстку, адаптив, сетки и работу с макетом.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,figma" />
 
 **Стек:**  
 - HTML5  
@@ -123,14 +119,12 @@
 
 ---
 
-## 🎉 Positivus 🟡
+## 🌈 [Positivus 🟡](https://github.com/BrovkinArtem/Positivus)
 
 **Цель:**  
 Практика адаптива, SCSS и методологии БЭМ.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,scss,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,scss,figma" />
 
 **Стек:**  
 - HTML5  
@@ -148,14 +142,12 @@
 
 ---
 
-## 💡 FutureTech 🔴
+## 💡 [FutureTech 🔴](https://github.com/BrovkinArtem/FutureTech)
 
 **Цель:**  
 Подключить JavaScript и создать полноценный сайт с логикой.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,scss,js,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,scss,js,figma" />
 
 **Стек:**  
 - HTML5  
@@ -178,15 +170,13 @@
 
 ---
 
-## 🎬 StreamVibe 🚀
+## 🎬 [StreamVibe 🔥](https://github.com/BrovkinArtem/StreamVibe)
 
 **Цель:**  
 Начало погружения в изучение React и компонентного подхода, сборка через Vite.
 
 <img src="https://minista.qranoko.jp/assets/images/logo.svg" width="128" height="48" />
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=reacs,scss,vite,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=reacs,scss,vite,figma" />
 
 **Стек:**  
 - React / JSX  
