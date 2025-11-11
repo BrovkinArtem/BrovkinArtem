@@ -33,7 +33,7 @@
 ## 🛠 Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,express,react,vite,redux,sequelize,mongodb,axios,bootstrap,tailwind,prettier" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,express,react,vite,redux,sequelize,mongodb,bootstrap,tailwind,prettier" />
 </p>
 
 <p align="center">
