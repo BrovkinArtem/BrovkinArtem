@@ -7,7 +7,7 @@
   🎂 07.07.2002 &nbsp;•&nbsp; 🇷🇺 Петрозаводск &nbsp;•&nbsp; 🎓 Бакалавр ПетрГУ  
 </p>
 <p align="center">
- 2 года commercial‑опыта как Frontend‑разработчик
+ 3 года 7 месяцев commercial‑опыта как Frontend‑разработчик
 </p>
 
 ## ⚙️ Основной стек
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>React · TypeScript · JavaScript · Vite · Redux · Firebase · Node.js · SCSS</b>
+  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API< /b>
 </p>
 
 > Основной фронтенд/бекенд стек, с которым сейчас работаю.
