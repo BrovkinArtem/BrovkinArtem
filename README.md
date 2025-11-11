@@ -44,7 +44,7 @@
 ## 📂 Средства разработки ПО
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,docker, figma" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,docker,figma" />
 </p>
 
 <p align="center">
