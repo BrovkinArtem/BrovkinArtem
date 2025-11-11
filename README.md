@@ -225,7 +225,7 @@
 **Цель:**  
 Создать интернет-магазин с регистрацией, авторизацией и CRUD для товаров.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,sequelize,jwt,axios" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,sequelize" />
 
 **Стек:**  
 - Backend: Node.js, Express, Sequelize, Postgres  
