@@ -13,7 +13,7 @@
 ## ⚙️ Основной стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,scss" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express,postman" />
 </p>
 
 <p align="center">
