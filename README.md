@@ -1,6 +1,6 @@
 <!-- Заставка -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Привет!+Я+Артём+Бровкин;Frontend+разработчик;React+%7C+TypeScript+%7C+REST_API" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Frontend-разработчик+·+React+·+TypeScript+·+Node.js;Создаю+web-решения+с+нуля+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,8 +50,6 @@
 <p align="center">
   <b>Github · GitLab · Postman · SCRUM · БЭМ · Docker · Figma</b>
 </p>
-
-> Использовались ранее на коммерческих или pet-проектах.
 
 ## 🚀 Проекты
 
