@@ -53,8 +53,9 @@
 
 ## 🚀 Проекты
 
-### <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/ttt-Kittl%20(1).svg" alt="Optitex Logo" width="128" /> Optitex — *приватный*
+## 🚀 Проекты
 
+### <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/ttt-Kittl%20(1).svg" alt="Optitex Logo" width="128" />
 > **React + TypeScript + Firebase + Tinkoff API**
 
 - Автодивестирование по стратегии усреднения  
@@ -66,9 +67,8 @@
 
 ---
 
-###  <img src="https://infocraft.ru/images/infocraft/logo.svg" alt="Infocraft Logo" width="114" /> Инфокрафт — *приватный*  
+### <img src="https://infocraft.ru/images/infocraft/logo.svg" alt="Infocraft Logo" width="128" />
 > **Python + FastAPI + EasyOCR + YOLOv5 + Docker**
-
 
 - Распознаёт номера счётчиков на фото с точностью 96–98%  
 - Микросервис + REST API, деплой на Linux  
@@ -76,7 +76,23 @@
 
 <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="50%" />
 
-# 💼 Frontend-проекты
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Merlion_logo.svg/2560px-Merlion_logo.svg.png" alt="MERLION / Ситилинк Logo" width="128" />
+> **React + Redux + Node.js + TypeScript + SASS + REST API + gRPC + Storybook**
+
+- Веб-платформа и торговые терминалы для крупного eCommerce-ритейлера  
+- Переписывал старые разделы на новую архитектуру React + Redux с серверным рендерингом Node.js  
+- Разработка и поддержка UI-библиотеки в Storybook  
+- Оптимизация скорости рендеринга и загрузки страниц  
+- Интеграция REST и gRPC сервисов с backend  
+- Ежедневные Scrum-митинги, код-ревью, архитектурные обсуждения
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Merlion_logo.svg/600px-Merlion_logo.svg.png" width="50%" />
+
+
+
+# 💼 Вёрстки
 
 Четыре проекта с версткой, интерактивом и фреймворками. Сделано для прокачки скиллов и наполнения портфолио.
 Каждый последующий проект был сложнее и насыщенее предыдущего
