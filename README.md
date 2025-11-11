@@ -10,50 +10,45 @@
  3 года 7 месяцев commercial‑опыта как Frontend‑разработчик
 </p>
 
-## ⚙️ Основной стек
+## ⚙️ Ключевые способности и технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express,postman" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express" />
 </p>
 
 <p align="center">
   <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API< /b>
 </p>
 
-> Основной фронтенд/бекенд стек, с которым сейчас работаю.
-
-## 🔧 Вспомогательные технологии
+## 🔧 Языки программирования
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python" />
 </p>
 
 <p align="center">
-  <b>Python · PHP · Docker </b>
+  <b>TypeScript · JavaScript · Python </b>
 </p>
 
-> Технологии, которые мной периодически используются
-
-## 🛠 Вспомогательные инструменты
+## 🛠 Технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,figma" />
-</p>
-
-<p align="center">
-  <b>Github · Gitlab · Postman · Figma</b>
-</p>
-
-> Основные инструменты для контроля версий, тестирования API и реализации точного дизайна проектов
-
-## 📂 Ранее в работе
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,postgres,vuejs,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,express,react,vite,redux,sequelize,mongodb,axios,bootstrap,tailwind,prettier" />
 </p>
 
 <p align="center">
-  <b>Laravel · MySQL · PostgreSQL · Vue.js · Flutter · Dart</b>
+  <b>REST API · HTML/CSS · SASS · Express · React · React Router · Redux-Toolkit · Vite · Sequelize · MobX · Axios · React-Bootstrap · Minista · Mongoose · Prettier · Tailwind · Zod + React Hook Form · Storybook</b>
+</p>
+
+
+## 📂 Средства разработки ПО
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,docker, figma" />
+</p>
+
+<p align="center">
+  <b>Github · GitLab · Postman · SCRUM · БЭМ · Docker · Figma</b>
 </p>
 
 > Использовались ранее на коммерческих или pet-проектах.
