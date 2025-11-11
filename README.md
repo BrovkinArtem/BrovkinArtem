@@ -63,7 +63,7 @@
 - Интеграция REST и gRPC сервисов с backend  
 - Ежедневные Scrum-митинги, код-ревью, архитектурные обсуждения
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Merlion_logo.svg/600px-Merlion_logo.svg.png" width="50%" />
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/citilink.png" width="50%" />
 
 ---
 
