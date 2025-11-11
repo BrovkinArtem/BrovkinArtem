@@ -89,15 +89,15 @@
 <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="50%" />
 
 
+# 💼 Вёрстка и пет-проекты (23-24 года)
 
-# 💼 Вёрстка | пет-проекты (23-24 года)
+Проекты с версткой, интерактивом, React и backend логикой. Сделано для прокачки скиллов и наполнения портфолио. Каждый последующий проект был сложнее и насыщенее предыдущего.
 
-Четыре проекта с версткой, интерактивом и фреймворками. Сделано для прокачки скиллов и наполнения портфолио.
-Каждый последующий проект был сложнее и насыщенее предыдущего
+---
 
 ## 🏋️‍♂️ [Kropp Fitness Club 🟢](https://github.com/BrovkinArtem/Kropp-Fitness-Club)
 
-**Цель:** 
+**Цель:**  
 Освоить базовую вёрстку, адаптив, сетки и работу с макетом.
 
 <img src="https://skillicons.dev/icons?i=html,css,figma" />
@@ -112,7 +112,7 @@
 - Чистая вёрстка без JS  
 - Без сборщиков и препроцессоров
 
-<img src="https://github.com/BrovkinArtem/Kropp-Fitness-Club/blob/main/screenshots/kropp1.png" width="50%"/>
+<img src="https://github.com/BrovkinArtem/Kropp-Fitness-Club/blob/main/screenshots/kropp1.png" width="50%" />
 
 ---
 
@@ -135,7 +135,7 @@
 - SCSS с вложенностью  
 - Без JS
 
-<img src="https://github.com/BrovkinArtem/Positivus/blob/main/screenshots/Positivus1.png" width="50%"/>
+<img src="https://github.com/BrovkinArtem/Positivus/blob/main/screenshots/Positivus1.png" width="50%" />
 
 ---
 
@@ -194,6 +194,54 @@
 <img src="https://github.com/BrovkinArtem/StreamVibe/blob/main/screenshots/home/stream_home1.png" width="50%" />
 
 ---
+
+## 🔐 [2FAuthorization 🟣](https://github.com/BrovkinArtem/2FAuthorization)
+
+**Цель:**  
+Прокачка форм, валидации и двухфакторной аутентификации.
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,zod,jest,reactquery" />
+
+**Стек:**  
+- React / TypeScript  
+- React Query  
+- Zod + React Hook Form  
+- Tailwind CSS  
+- Jest
+
+**Особенности:**  
+- Авторизация с email и паролем  
+- Двухфакторная аутентификация (2FA)  
+- Моки API с обработкой типовых ошибок  
+- LocalStorage для хранения состояния пользователя  
+- Простая архитектура и читаемый код
+
+<img src="https://github.com/BrovkinArtem/2FAuthorization/blob/main/authPreview.png" width="50%" />
+
+---
+
+## 🛒 [Онлайн-магазин электроники (PERN) 🔵](https://github.com/BrovkinArtem/online-store)
+
+**Цель:**  
+Создать интернет-магазин с регистрацией, авторизацией и CRUD для товаров.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,sequelize,jwt,axios" />
+
+**Стек:**  
+- Backend: Node.js, Express, Sequelize, Postgres  
+- Frontend: React, MobX, React Bootstrap, Axios  
+- Auth: JWT + bcrypt  
+- Загрузка файлов: express-fileupload
+
+**Особенности:**  
+- Регистрация/логин пользователей  
+- CRUD для брендов, типов и устройств  
+- Загрузка изображений и пагинация  
+- Админ-панель для управления магазином  
+- Токен хранится в localStorage, axios-интерсептор подставляет Authorization
+
+<img src="https://github.com/BrovkinArtem/online-store/blob/main/brovkinShop.png" width="50%" />
+
 
 ## 💼 Немного о себе
 
