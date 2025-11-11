@@ -200,7 +200,7 @@
 **Цель:**  
 Прокачка форм, валидации и двухфакторной аутентификации.
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,zod,jest,reactquery" />
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,jest" />
 
 **Стек:**  
 - React / TypeScript  
