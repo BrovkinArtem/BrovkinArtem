@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API · Next.js · Jest < /b>
+  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API · Next.js · Jest
 </p>
 
 ## 🔧 Языки программирования
