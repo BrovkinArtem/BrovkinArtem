@@ -1,13 +1,13 @@
 <!-- Заставка -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Node.js;Создаю+web+решения+с+нуля+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Next.js;4+года+опыта+с+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
   🎂 07.07.2002 &nbsp;•&nbsp; 🇷🇺 Петрозаводск &nbsp;•&nbsp; 🎓 Бакалавр ПетрГУ  
 </p>
 <p align="center">
- 3 года 10 месяцев commercial‑опыта как Frontend‑разработчик
+ 4 года commercial‑опыта как Frontend‑разработчик
 </p>
 
 ## ⚙️ Ключевые способности и технологии
