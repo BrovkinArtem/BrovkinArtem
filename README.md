@@ -44,11 +44,11 @@
 ## 📂 Средства разработки ПО
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,docker,figma,jira" />
 </p>
 
 <p align="center">
-  <b>Github · GitLab · Postman · SCRUM · БЭМ · Docker · Figma</b>
+  <b>Github · GitLab · Postman · SCRUM · БЭМ · Docker · Figma · Jira</b>
 </p>
 
 ## 🚀 Проекты
