@@ -1,6 +1,6 @@
 <!-- Заставка -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Next.js;4+года+опыта+с+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Next.js;4+года+опыта" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 ## ⚙️ Ключевые способности и технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express,nextjs" />
 </p>
 
 <p align="center">
-  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API< /b>
+  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API · Next.js < /b>
 </p>
 
 ## 🔧 Языки программирования
