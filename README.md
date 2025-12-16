@@ -13,11 +13,11 @@
 ## ⚙️ Ключевые способности и технологии
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express,nextjs,jest" />
 </p>
 
 <p align="center">
-  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API · Next.js < /b>
+  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API · Next.js · Jest < /b>
 </p>
 
 ## 🔧 Языки программирования
