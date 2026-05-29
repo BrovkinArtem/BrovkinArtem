@@ -1,299 +1,119 @@
 <!-- Заставка -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Next.js;4+года+опыта" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend+Developer;React+·+TypeScript+·+Next.js;4%2B+года+опыта" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎂 07.07.2002 &nbsp;•&nbsp; 🇷🇺 Петрозаводск &nbsp;•&nbsp; 🎓 Бакалавр ПетрГУ  
-</p>
-<p align="center">
- 4 года commercial‑опыта как Frontend‑разработчик
-</p>
-
-## ⚙️ Ключевые способности и технологии
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,redux,firebase,nodejs,express,nextjs,jest" />
+  Frontend Developer • React / TypeScript / Next.js
 </p>
 
 <p align="center">
-  <b>React · TypeScript · JavaScript · Vite · Redux-toolkit · Firebase · Node.js · gRPC · Express.js · React-router-dom · REST API · Next.js · Jest
+  4+ года коммерческого опыта
 </p>
-
-## 🔧 Языки программирования
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python" />
-</p>
-
-<p align="center">
-  <b>TypeScript · JavaScript · Python </b>
-</p>
-
-## 🛠 Технологии
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,express,react,vite,sequelize,redux,mongodb,bootstrap,tailwind" />
-</p>
-
-<p align="center">
-  <b>REST API · HTML/CSS · SASS · Express · React · React Router · Redux-Toolkit · Vite · Sequelize · MobX · Axios · React-Bootstrap · Minista · Mongoose · Prettier · Tailwind · Zod + React Hook Form · Storybook</b>
-</p>
-
-
-## 📂 Средства разработки ПО
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,gitlab,postman,docker,figma" />
-</p>
-
-<p align="center">
-  <b>Github · GitLab · Postman · SCRUM · БЭМ · Docker · Figma</b>
-</p>
-
-## 🚀 Проекты
 
 ---
 
-### <img src="https://static.merlion.ru/img2021/logo-white.svg" alt="MERLION / Ситилинк Logo" width="128" />
-**Веб-платформа eCommerce-ритейлера электроники (MERLION / Ситилинк)**  
-🗓 Июнь 2024 – Ноябрь 2025  
-> **React + Redux + Node.js + TypeScript + SASS + REST API + gRPC + Storybook**
+# ⚙️ Основной стек
 
-- Веб-платформа и торговые терминалы для крупного eCommerce-ритейлера  
-- Переписывал старые разделы на новую архитектуру React + Redux с серверным рендерингом Node.js  
-- Разработка и поддержка UI-библиотеки в Storybook  
-- Оптимизация скорости рендеринга и загрузки страниц  
-- Интеграция REST и gRPC сервисов с backend  
-- Ежедневные Scrum-митинги, код-ревью, архитектурные обсуждения  
-- Разработка новых функциональных модулей и интерфейсов  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,nodejs,express,firebase,docker,jest" />
+</p>
 
-🌟 **Достижения:**  
-- Ускорил загрузку ключевых страниц до 30%  
-- Перенёс более 5 крупных разделов на новый стек React + Redux  
-- Повысил стабильность фронта с TypeScript и улучшенным тестовым покрытием  
-
-👥 **Команда:** Frontend — 5, Backend — 4, QA — 2, DevOps, UI/UX дизайнер, PM, Tech Lead  
-
-<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/citilink.png" width="50%" />
+<p align="center">
+  React · TypeScript · JavaScript · Next.js · Redux Toolkit · REST API · Node.js · Express · Firebase · Storybook
+</p>
 
 ---
 
-### <img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/ttt-Kittl%20(1).svg" alt="Optitex Logo" width="128" />
-**Web-сервис для автоматизации инвестирования (OPTITEX)**  
-🗓 Июнь 2022 – Май 2024  
-> **React + TypeScript + Redux + Firebase + Tinkoff Invest API + Node.js + Chart.js + REST API**
+# 🚀 Коммерческий опыт
 
-- Сервис автоматизации инвестирования по стратегиям пользователей  
-- Проектирование UI/UX в Figma, адаптивный интерфейс на React + TypeScript + Redux  
-- Интеграция с Tinkoff Invest API для работы с ценными бумагами  
-- Авторизация и хранение данных через Firebase Auth и Firestore  
-- Подписки через ЮKassa, графики на Chart.js  
-- Python-алгоритм для анализа инвестиционных стратегий  
-- Визуализация данных, кастомные формы, отправка писем пользователям  
+## MERLION / Ситилинк
 
-🌟 **Достижения:**  
-- Создал с нуля адаптивный и интуитивный интерфейс  
-- Реализовал дизайн-систему и компонентную библиотеку, ускорив разработку  
-- Обеспечил стабильную работу авторизации и данных пользователей  
-- Интегрировал платежную систему и контроль доступа через подписки  
-- Высокая интерактивность интерфейса через динамические графики  
+**Frontend Developer**  
+📅 Июнь 2024 — настоящее время
 
-👥 **Команда:** Fullstack — 2, дизайнер — 1, PM — 1, Tech Lead  
+> React · TypeScript · Next.js · SSR · Storybook · REST API · gRPC
 
-<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/tia-acc2.png" width="50%" />
+- Разработка и поддержка интерфейсов интернет-магазина
+- Работа с каталогом, карточками товаров и личным кабинетом
+- Подключение REST API и внутренних сервисов
+- Поддержка UI-компонентов в Storybook
+- Исправление багов и участие в релизах
+- Работа с SSR и TypeScript в production-проекте
+
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/citilink.png" width="55%" />
 
 ---
 
-### <img src="https://infocraft.ru/images/infocraft/logo.svg" alt="Infocraft Logo" width="128" />
-**Система распознавания заводских номеров счетчиков по фото (ИНФОКРАФТ)**  
-🗓 Декабрь 2021 – Июнь 2022  
-> **Python + FastAPI + EasyOCR + YOLOv5 + OpenCV + Docker + PostgreSQL**
+## OPTITEX
 
-- Backend-сервис для распознавания серийных номеров приборов учёта по изображениям  
-- Разработка и разметка датасета, предобработка изображений (фильтрация, бинаризация, deskew)  
-- Исследование и обучение моделей OCR (EasyOCR выбран как основной)  
-- FastAPI микросервис с REST API для интеграции  
-- Деплой на Linux с автозапуском и логированием  
+**Frontend Developer**  
+📅 Июнь 2022 — Май 2024
 
-🌟 **Достижения:**  
-- Достиг точности распознавания 96–98% на тестовом наборе  
-- Автоматизировал процесс обработки изображений вне зависимости от качества и угла съёмки  
-- Обеспечил стабильную работу OCR-сервиса с высокой скоростью обработки  
+> React · TypeScript · Firebase · Node.js · Chart.js
 
-👥 **Команда:** ML-инженер / Python-разработчик — 1, Наставник / тимлид — 1, QA — 1  
+- Разработка frontend части инвестиционного сервиса
+- Интеграция Tinkoff Invest API
+- Авторизация и хранение данных через Firebase
+- Реализация подписок через ЮKassa
+- Работа с графиками и визуализацией данных
+- Работа с формами, API и состоянием приложения
 
-<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="50%" />
-
-
-
-# 💼 Вёрстка и пет-проекты (22-24 года)
-
-Проекты с версткой, интерактивом, React и backend логикой. Сделано для прокачки скиллов и наполнения портфолио. Каждый последующий проект был сложнее и насыщенее предыдущего.
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/tia-acc2.png" width="55%" />
 
 ---
 
-## 🏋️‍♂️ [Kropp Fitness Club 🟢](https://github.com/BrovkinArtem/Kropp-Fitness-Club)
+## ИНФОКРАФТ
 
-**Цель:**  
-Освоить базовую вёрстку, адаптив, сетки и работу с макетом.
+**Python / ML Developer**  
+📅 Декабрь 2021 — Июнь 2022
 
-<img src="https://skillicons.dev/icons?i=html,css,figma" />
+> Python · FastAPI · OpenCV · EasyOCR · YOLOv5
 
-**Стек:**  
-- HTML5  
-- CSS3  
-- Figma
+- OCR-сервис для распознавания серийных номеров
+- Подготовка датасета и обработка изображений
+- Исследование OCR-моделей и тестирование решений
+- Разработка FastAPI сервиса
+- Работа с Docker и PostgreSQL
 
-**Особенности:**  
-- Mobile First  
-- Чистая вёрстка без JS  
-- Без сборщиков и препроцессоров
-
-<img src="https://github.com/BrovkinArtem/Kropp-Fitness-Club/blob/main/screenshots/kropp1.png" width="50%" />
+<img src="https://github.com/BrovkinArtem/BrovkinArtem/blob/main/easy.jpg" width="55%" />
 
 ---
 
-## 🌈 [Positivus 🟡](https://github.com/BrovkinArtem/Positivus)
+# 💼 Pet Projects
 
-**Цель:**  
-Практика адаптива, SCSS и методологии БЭМ.
+## 🔐 [2FAuthorization](https://github.com/BrovkinArtem/2FAuthorization)
 
-<img src="https://skillicons.dev/icons?i=html,scss,figma" />
+> React · TypeScript · Tailwind · Jest
 
-**Стек:**  
-- HTML5  
-- SCSS  
-- Figma  
-- БЭМ
+Pet-project с двухфакторной авторизацией, формами и валидацией.
 
-**Особенности:**  
-- Mobile First  
-- БЭМ-структура классов  
-- SCSS с вложенностью  
-- Без JS
-
-<img src="https://github.com/BrovkinArtem/Positivus/blob/main/screenshots/Positivus1.png" width="50%" />
+<img src="https://github.com/BrovkinArtem/2FAuthorization/blob/main/authPreview.png" width="55%" />
 
 ---
 
-## 💡 [FutureTech 🔴](https://github.com/BrovkinArtem/FutureTech)
+## 🎬 [StreamVibe](https://github.com/BrovkinArtem/StreamVibe)
 
-**Цель:**  
-Подключить JavaScript и создать полноценный сайт с логикой.
+> React · SCSS · Vite
 
-<img src="https://skillicons.dev/icons?i=html,scss,js,figma" />
+Проект для практики React, компонентного подхода и работы со сложным UI.
 
-**Стек:**  
-- HTML5  
-- SCSS  
-- JavaScript (Vanilla)  
-- Figma  
-- БЭМ
-
-**Особенности:**  
-- Бургер-меню  
-- Липкая шапка  
-- Видео-плеер  
-- Табы  
-- Input mask  
-- Кастомные select и accordion  
-- Проект из 6 страниц  
-- Чистый JS без фреймворков
-
-<img src="https://github.com/BrovkinArtem/FutureTech/blob/main/screenshots/home/home1.png" width="50%" />
+<img src="https://github.com/BrovkinArtem/StreamVibe/blob/main/screenshots/home/stream_home1.png" width="55%" />
 
 ---
 
-## 🎬 [StreamVibe 🔥](https://github.com/BrovkinArtem/StreamVibe)
+## 🛒 [Online Store](https://github.com/BrovkinArtem/online-store)
 
-**Цель:**  
-Начало погружения в изучение React и компонентного подхода, сборка через Vite.
+> React · Node.js · PostgreSQL
 
-<img src="https://minista.qranoko.jp/assets/images/logo.svg" width="128" height="48" />
-<img src="https://skillicons.dev/icons?i=react,scss,vite,figma" />
+Интернет-магазин с авторизацией, CRUD и backend на Express.
 
-**Стек:**  
-- React / JSX  
-- SCSS  
-- Vite  
-- Minista  
-- Figma  
-- Библиотеки: `classnames`, `imask`, `swiper`
-
-**Особенности:**  
-- Компонентная структура  
-- Сложный UI: рейтинги, слайдеры, чекбоксы  
-- Бургер-меню и sticky header  
-- Кастомные формы  
-- Mobile First + адаптив  
-- Сборка через Vite
-
-<img src="https://github.com/BrovkinArtem/StreamVibe/blob/main/screenshots/home/stream_home1.png" width="50%" />
+<img src="https://github.com/BrovkinArtem/online-store/blob/main/brovkinShop.png" width="55%" />
 
 ---
 
-## 🔐 [2FAuthorization 🟣](https://github.com/BrovkinArtem/2FAuthorization)
-
-**Цель:**  
-Прокачка форм, валидации и двухфакторной аутентификации.
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,jest" />
-
-**Стек:**  
-- React / TypeScript  
-- React Query  
-- Zod + React Hook Form  
-- Tailwind CSS  
-- Jest
-
-**Особенности:**  
-- Авторизация с email и паролем  
-- Двухфакторная аутентификация (2FA)  
-- Моки API с обработкой типовых ошибок  
-- LocalStorage для хранения состояния пользователя  
-- Простая архитектура и читаемый код
-
-<img src="https://github.com/BrovkinArtem/2FAuthorization/blob/main/authPreview.png" width="50%" />
-
----
-
-## 🛒 [Онлайн-магазин электроники (PERN) 🔵](https://github.com/BrovkinArtem/online-store)
-
-**Цель:**  
-Создать интернет-магазин с регистрацией, авторизацией и CRUD для товаров.
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,sequelize" />
-
-**Стек:**  
-- Backend: Node.js, Express, Sequelize, Postgres  
-- Frontend: React, MobX, React Bootstrap, Axios  
-- Auth: JWT + bcrypt  
-- Загрузка файлов: express-fileupload
-
-**Особенности:**  
-- Регистрация/логин пользователей  
-- CRUD для брендов, типов и устройств  
-- Загрузка изображений и пагинация  
-- Админ-панель для управления магазином  
-- Токен хранится в localStorage, axios-интерсептор подставляет Authorization
-
-<img src="https://github.com/BrovkinArtem/online-store/blob/main/brovkinShop.png" width="50%" />
-
-
-## 💼 Немного о себе
-
-- Пишу быстро, структурно, с прицелом на масштабирование  
-- Соблюдаю DRY, модульность и читаемость  
-- Хорошо коммуницирую в команде, открыт к фидбеку
-
-## 🎯 Цель
-
-🚀 Вырости до **full‑stack или senior frontend** (React + backend stack)
-
----
-
-## 📫 Связь
+# 📫 Контакты
 
 <p align="center">
   <a href="https://t.me/ArtemiyBrovkin">
