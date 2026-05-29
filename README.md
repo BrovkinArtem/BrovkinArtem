@@ -16,64 +16,52 @@ Frontend Developer • React / TypeScript / Next.js
 React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Firebase
 </p>
 
-<br>
+---
 
-## 💼 Коммерческий опыт
+## 💼 Опыт
 
 ### MERLION / Ситилинк
 **Frontend Developer** • 2024 — now
 
-- Разработка и поддержка интерфейсов интернет-магазина
-- Работа с React, Next.js, SSR
-- REST API / gRPC интеграции
+- React / Next.js frontend
+- SSR и REST API интеграции
 - Storybook и UI-компоненты
-- Production frontend и релизы
-
-<br>
+- Production и релизы
 
 ### OPTITEX
 **Frontend Developer** • 2022 — 2024
 
-- Инвестиционный web-сервис
-- React + TypeScript frontend
+- Финтех web-сервис
 - Firebase и Tinkoff Invest API
-- Подписки через ЮKassa
-- Графики и визуализация данных
-
-<br>
+- Подписки и графики
+- React + TypeScript
 
 ### ИНФОКРАФТ
 **Python / ML Developer** • 2021 — 2022
 
-- OCR-сервис для распознавания серийных номеров
-- FastAPI + OpenCV + EasyOCR
-- Обработка изображений
-- Docker и PostgreSQL
+- OCR-сервис
+- FastAPI + OpenCV
+- Docker + PostgreSQL
 
-<br>
+---
 
-## 📊 GitHub Stats
+## 📊 Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrovkinArtem&show_icons=true&theme=transparent&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrovkinArtem&layout=compact&theme=transparent&hide_border=true" />
+  <a href="https://github.com/gradedSystem/github-analytics">
+    <img src="https://github-analytics.vercel.app/api?username=BrovkinArtem&theme=dark" />
+  </a>
 </p>
 
-<br>
+---
 
 ## 🚀 Pet Projects
 
-### [2FAuthorization](https://github.com/BrovkinArtem/2FAuthorization)
-React + TypeScript + Tailwind + Jest
+- [2FAuthorization](https://github.com/BrovkinArtem/2FAuthorization)
+- [StreamVibe](https://github.com/BrovkinArtem/StreamVibe)
+- [Online Store](https://github.com/BrovkinArtem/online-store)
 
-### [StreamVibe](https://github.com/BrovkinArtem/StreamVibe)
-React + SCSS + Vite
-
-### [Online Store](https://github.com/BrovkinArtem/online-store)
-React + Node.js + PostgreSQL
-
-<br>
+---
 
 ## 📫 Контакты
 
