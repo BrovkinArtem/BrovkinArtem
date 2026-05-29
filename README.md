@@ -1,4 +1,4 @@
-<!-- Заставка --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100pause=100&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Next.js;4+года+опыта" alt="Typing SVG" /> </p>
+<!-- Заставка --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Next.js;4+года+опыта" alt="Typing SVG" /> </p>
 
 <p align="center">
 4+ года коммерческого опыта
