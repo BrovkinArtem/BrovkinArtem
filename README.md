@@ -51,7 +51,7 @@ React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Fireba
 - [2FAuthorization](https://github.com/BrovkinArtem/2FAuthorization)
 - [StreamVibe](https://github.com/BrovkinArtem/StreamVibe)
 - [Online Store](https://github.com/BrovkinArtem/online-store)
-- 🧠 Scenario Flow Builder — визуальный редактор сценариев (React, TypeScript, Canvas) · [GitHub](https://github.com/BrovkinArtem/scenario-flow-builder) · [Live demo](https://scenario-flow-builder-9u2g9kyt4-artembrovkins-projects-7b886721.vercel.app/scenarios)
+- 🧠 Scenario Flow Builder — визуальный редактор сценариев (React, TypeScript, Canvas) · [GitHub](https://github.com/BrovkinArtem/scenario-flow-builder) · [Live demo](https://scenario-flow-builder-9u2g9kyt4-artembrovkins-projects-7b886721.vercel.app)
 
 ---
 
