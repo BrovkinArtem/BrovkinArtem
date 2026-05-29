@@ -52,6 +52,7 @@ React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Fireba
 - [StreamVibe](https://github.com/BrovkinArtem/StreamVibe)
 - [Online Store](https://github.com/BrovkinArtem/online-store)
 - 🧠 Scenario Flow Builder — визуальный редактор сценариев (React, TypeScript, Canvas) · [GitHub](https://github.com/BrovkinArtem/scenario-flow-builder) · [Live demo](https://scenario-flow-builder-9u2g9kyt4-artembrovkins-projects-7b886721.vercel.app)
+- 📚 Test Task Courses — учебный проект / тестовое задание (React, TypeScript) · [GitHub](https://github.com/BrovkinArtem/TestTaskCourses) · [Live](https://test-task-courses-ge5bx581k-artembrovkins-projects-7b886721.vercel.app)
 
 ---
 
