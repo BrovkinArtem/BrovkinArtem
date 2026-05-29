@@ -45,15 +45,11 @@ React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Fireba
 
 ---
 
-## 📊 Analytics
+## 📈 Activity
 
 <p align="center">
-  <a href="https://github.com/gradedSystem/github-analytics">
-    <img src="https://github-analytics.vercel.app/api?username=BrovkinArtem&theme=dark" />
-  </a>
+  <img src="https://raw.githubusercontent.com/BrovkinArtem/BrovkinArtem/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
 
 ## 🚀 Pet Projects
 
