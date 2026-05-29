@@ -45,9 +45,6 @@ React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Fireba
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrovkinArtem&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrovkinArtem&theme=github_dark" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrovkinArtem&theme=github-dark&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrovkinArtem&theme=github-dark&hide_border=true" />
-<img src="https://github.com/lowlighter/metrics/blob/main/github-metrics.svg" />
 
 ## 🚀 Pet Projects
 
