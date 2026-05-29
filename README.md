@@ -47,6 +47,7 @@ React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Fireba
 - 🛒 Online Store — eCommerce приложение (React, Node.js, PostgreSQL) · [GitHub](https://github.com/BrovkinArtem/online-store)
 - 🧠 Scenario Flow Builder — визуальный редактор сценариев (React, TypeScript, Canvas) · [GitHub](https://github.com/BrovkinArtem/scenario-flow-builder) · [Live demo](https://scenario-flow-builder-9u2g9kyt4-artembrovkins-projects-7b886721.vercel.app)
 - 📚 Test Task Courses — учебный проект / тестовое задание (React, TypeScript) · [GitHub](https://github.com/BrovkinArtem/TestTaskCourses) · [Live](https://test-task-courses-ge5bx581k-artembrovkins-projects-7b886721.vercel.app)
+- Также участвовал в разработке рекламной платформы, лендингов и системы брифинга: занимался реализацией интерфейсов на React, интеграцией с API и поддержкой уже работающих решений в продакшене в качестве фриланс исполнителя.
 
 ---
 
