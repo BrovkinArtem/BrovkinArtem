@@ -1,4 +1,4 @@
-<h1 align="center">Артём Бровкин</h1>
+<!-- Заставка --> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=00BFFF&center=true&width=520&lines=Привет!+Я+Артём+Бровкин;Frontend-разработчик;React+·+TypeScript+·+Next.js;4+года+опыта" alt="Typing SVG" /> </p>
 
 <p align="center">
 Frontend Developer • React / TypeScript / Next.js
