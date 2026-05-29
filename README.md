@@ -48,7 +48,6 @@ React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Fireba
 
 ## 🚀 Pet Projects
 
-- 🔐 2FAuthorization — двухфакторная аутентификация и формы (React, TypeScript) · [GitHub](https://github.com/BrovkinArtem/2FAuthorization)
 - 🎬 StreamVibe — UI-платформа для просмотра контента (React, Vite, SCSS) · [GitHub](https://github.com/BrovkinArtem/StreamVibe)
 - 🛒 Online Store — eCommerce приложение (React, Node.js, PostgreSQL) · [GitHub](https://github.com/BrovkinArtem/online-store)
 - 🧠 Scenario Flow Builder — визуальный редактор сценариев (React, TypeScript, Canvas) · [GitHub](https://github.com/BrovkinArtem/scenario-flow-builder) · [Live demo](https://scenario-flow-builder-9u2g9kyt4-artembrovkins-projects-7b886721.vercel.app)
