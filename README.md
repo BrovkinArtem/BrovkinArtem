@@ -41,11 +41,6 @@ React · TypeScript · Next.js · Redux Toolkit · REST API · Node.js · Fireba
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrovkinArtem&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrovkinArtem&theme=github_dark" />
-
 ## 🚀 Pet Projects
 
 - 🎬 StreamVibe — UI-платформа для просмотра контента (React, Vite, SCSS) · [GitHub](https://github.com/BrovkinArtem/StreamVibe)
